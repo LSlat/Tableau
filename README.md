@@ -4,3 +4,5 @@ NYC Citibike story:
 
 Bed and Breakfast dashboards:
   https://public.tableau.com/profile/linn1674#!/vizhome/NYCAirbnb_15693702693310/Dashboard1
+  https://public.tableau.com/profile/linn1674#!/vizhome/NYCAirbnb_15693702693310/Dashboard2
+  
